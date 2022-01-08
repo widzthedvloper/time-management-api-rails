@@ -1,3 +1,3 @@
 # README
 
-Time management app API.
+Time management API app.
