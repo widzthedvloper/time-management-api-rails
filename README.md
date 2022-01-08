@@ -1,4 +1,3 @@
 # README
 
-Time management app API.
-Currently working on user requirements 
+Time management API app.
